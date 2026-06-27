@@ -1,0 +1,89 @@
+{
+  "global_config": {
+    "primary_cdn": "https://cdn.jsdelivr.net/gh/pangeranpramuka-hub/hadis-my@main/",
+    "fallback_url": "https://raw.githubusercontent.com/pangeranpramuka-hub/hadis-my/main/"
+  },
+  "databases": [
+    {
+      "language_code": "ms",
+      "language_name": "Melayu",
+      "book_name": "Sahih Bukhari",
+      "file_name": "hadismy_bukhari.db",
+      "sha256": "8FE2EAEA61553192B13077C3336F6BA623335794EC743F14B9CB6371BD08C6EE",
+      "file_size": 0,
+      "last_updated": "2024-03-27"
+    },
+    {
+      "language_code": "ms",
+      "language_name": "Melayu",
+      "book_name": "Sahih Muslim",
+      "file_name": "hadismy_muslim.db",
+      "sha256": "8B46AE3822C68481A51914B4D961DB242676236BB46A4B901D77BBC6C1394D9F",
+      "file_size": 0,
+      "last_updated": "2024-03-27"
+    },
+    {
+      "language_code": "ms",
+      "language_name": "Melayu",
+      "book_name": "Sunan Abu Daud",
+      "file_name": "hadismy_abudaud.db",
+      "sha256": "F43B612830CECF88F7D528F9693BA89D506615FF653B2948AB23B0E2D6BF3EB9",
+      "file_size": 0,
+      "last_updated": "2024-03-27"
+    },
+    {
+      "language_code": "ms",
+      "language_name": "Melayu",
+      "book_name": "Sunan Tirmidzi",
+      "file_name": "hadismy_tirmidzi.db",
+      "sha256": "117CA9F945308A4FFFF6309D6C5B8DCACD336EF12703831174205E1D6FD1D78B",
+      "file_size": 0,
+      "last_updated": "2024-03-27"
+    },
+    {
+      "language_code": "ms",
+      "language_name": "Melayu",
+      "book_name": "Sunan Nasai",
+      "file_name": "hadismy_nasai.db",
+      "sha256": "EA8214452196B16801CE60C186CDF755D8E01B4509875869D3C03511107827CD",
+      "file_size": 0,
+      "last_updated": "2024-03-27"
+    },
+    {
+      "language_code": "ms",
+      "language_name": "Melayu",
+      "book_name": "Sunan Ibnu Majah",
+      "file_name": "hadismy_ibnumajah.db",
+      "sha256": "80BA03B0E99CEDAC984BF8CB86E1D814DF43CE3AA5015835626C790918922E7B",
+      "file_size": 0,
+      "last_updated": "2024-03-27"
+    },
+    {
+      "language_code": "ms",
+      "language_name": "Melayu",
+      "book_name": "Musnad Ahmad",
+      "file_name": "hadismy_ahmad.db",
+      "sha256": "D439CBB8D1674F724C85EBF9101BE234620BA39F8C787548386C92537EB24212",
+      "file_size": 0,
+      "last_updated": "2024-03-27"
+    },
+    {
+      "language_code": "ms",
+      "language_name": "Melayu",
+      "book_name": "Muwatta Malik",
+      "file_name": "hadismy_malik.db",
+      "sha256": "D46C14DF143A8F6E83B6344B45744B204F2E1C0770ABBF22C4D613A8598C1CE1",
+      "file_size": 0,
+      "last_updated": "2024-03-27"
+    },
+    {
+      "language_code": "ms",
+      "language_name": "Melayu",
+      "book_name": "Sunan Darimi",
+      "file_name": "hadismy_darimi.db",
+      "sha256": "D6E35130C90A25EE1B5D4D25DFE2F9D6D05DFE2F9D6D05DCB4CB49FABBAD39738C80E4627AA",
+      "file_size": 0,
+      "last_updated": "2024-03-27"
+    }
+  ]
+}
